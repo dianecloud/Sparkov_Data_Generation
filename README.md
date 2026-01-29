@@ -1,4 +1,4 @@
-# Generate Fake Credit Card Transaction Data, Including Fraudulent Transactions
+# Generate Credit Card Transaction Data, Including Fraudulent Transactions
 
 Note: Version v1.0 behavior has changed in such a way that it runs much faster, however transaction files are chunked, so that several files get generated per profile. If your downstream process expects 1 file per profile, please checkout the v0.5 release branch `release/v0.5`.
 
